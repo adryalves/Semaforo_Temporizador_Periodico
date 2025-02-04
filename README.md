@@ -3,6 +3,7 @@
 Este projeto implementa um **semáforo** utilizando o **Raspberry Pi Pico W** e a função `add_repeating_timer_ms()` do **Pico SDK**. O sistema controla **três LEDs** (vermelho, amarelo e verde) com uma temporização de **3 segundos** para cada mudança de estado.
 
 ## 📌 Link do vídeo mostrando o funcionamento
+https://drive.google.com/file/d/11IEivA0x-sKl_k8oPXnazyTU2YlnMGEC/view?usp=sharing
 
 ## 🛠 Componentes Utilizados
 - Raspberry Pi Pico W
